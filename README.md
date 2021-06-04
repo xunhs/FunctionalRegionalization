@@ -1,1 +1,3 @@
-# FunctionalRegionalization
+> This is the code repository of the manuscript: Delineating urban functinal regions...
+
+The source is coming soon.
