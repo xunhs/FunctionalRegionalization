@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T03:04:50.965Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="cW1Txh6i21RnhyyOS0Dp" version="14.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-30T03:12:55.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="itq7-5tL3CpfpJjHZJ80" version="14.8.2" type="github">
   <diagram id="th2TBvmeSx87468O9NcA" name="第 1 页">
-    <mxGraphModel dx="946" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,6 +173,47 @@
         </mxCell>
         <mxCell id="X2EXVFLk4f0aDlaed467-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="539" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-2" value="Road segment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="109" y="503" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-3" value="" style="endArrow=classic;html=1;strokeColor=#B3B3B3;strokeWidth=3;endSize=4;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="42" y="520" as="sourcePoint" />
+            <mxPoint x="100" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-4" value="" style="endArrow=none;html=1;strokeColor=#d6b656;strokeWidth=12;endSize=10;endFill=0;fillColor=#fff2cc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="564" as="sourcePoint" />
+            <mxPoint x="90" y="564" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-5" value="Original route" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="108" y="546" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-6" value="" style="endArrow=none;html=1;strokeWidth=12;endSize=10;endFill=0;fillColor=#fff2cc;strokeColor=#4DD2DB;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="604" as="sourcePoint" />
+            <mxPoint x="90" y="604" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-7" value="Matched path" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="106" y="585.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="56" y="640" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-9" value="Road Vertex" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="635" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="56" y="687" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QhxPLBfNZ-X5RPIvw1bP-11" value="Mathced road Vertex" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="677" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
